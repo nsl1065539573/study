@@ -1,0 +1,66 @@
+```
+AcceptInvitationPage
+AccountSettingPage
+CreateMerchantPage
+CreateMerchantResultPage
+DraftBusinessLicenseEditPage
+DraftContactEditPage
+DraftIdCardEditPage
+DraftIdDocEditPage
+DraftOrganizationCertEditPage
+DraftPersonalSubjectCertificationEditPage
+TestHomePage
+IdDocTypePage
+MerchantEditPage    ?
+MerchantList     ?
+MerchantManagePage    ?
+OrganizationTypePage
+PersonalCenterPage	?
+PersonalMerchantManagerPage	?
+PersonalSettingPage	?
+SubjectCertificationStatusPage
+UserEditPage	?
+WelcomePage	?
+```
+
+B/C:
+
+```
+CashWithdrawListPage
+PayPage
+DraftProductCatalogEditPage
+VariantComboEditPage
+VariantTypeEditPage
+CartPage
+CheckoutPage
+RefundDetailPage
+ReturnParcelInputPage
+StoreAftersalesPolicyEditPage
+ProductGroupPage
+StorePage   首页 B还是C
+AcceptInvitationPage
+ChooseAftersalesTypePage
+CreateRefundRequestPage
+FreightTmplListPage
+TestHomePage
+GoodsDetailPage
+GoodsDetailsPreviewPage
+InvitationCreatePage
+LoginPage
+LogisticsDetailPage
+MerchantFundBalancePage
+OperatorAftersalesAbstractDetailPage
+OperatorGoodsDetailsPage
+OperatorIndexPage
+OperatorOrderListPage
+OperatorViewDetailPage
+OperatorViewEditPage
+OperatorViewListPage
+OrderDetailPage
+OrderListPage
+SendParcelPage
+ShopOpeningGuidePage
+StoreSettingPage
+CouponPage
+```
+
